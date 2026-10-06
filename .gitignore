@@ -1,0 +1,14 @@
+# Environment and System files
+.DS_Store
+Thumbs.db
+*.tmp
+*.log
+
+# Editor configs
+.vscode/
+.idea/
+
+# Intermediate extraction files
+*.docx
+extracted_doc.txt
+extract_docx.ps1
